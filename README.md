@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Second Hand Platform backend
 
 Steps to run this project:
 
